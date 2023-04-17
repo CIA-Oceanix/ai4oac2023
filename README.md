@@ -9,5 +9,5 @@ Website of the workshop: https://ai4oac2023.sciencesconf.org/
 - Keynote by Prof. P. Hassanzadeh on Learning Data-driven Subgrid-scale Parameterizations: Stability, Extrapolation, and Interpretation
 
 ## Videos of the tutorials:
-- Tutorial by Prof. F. Rousseau on Diffusion Models:
+- Tutorial by Prof. F. Rousseau on Diffusion Models: part A (https://youtu.be/L6Ig_-ARtuo), part B (https://youtu.be/2KXsNkkZmYk)
 - Tutorial by Dr. J.E. Jonhson on Neural Fields:
