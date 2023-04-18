@@ -1,5 +1,6 @@
 # ai4oac2023 
-Website of the workshop: https://ai4oac2023.sciencesconf.org/
+Website of the workshop: [https://ai4oac2023.sciencesconf.org/](https://ai4oac2023.sciencesconf.org/)
+Program of the workshop: [pdf](https://cia-oceanix.github.io/downloads/program_workshopAI4OAC2023.pdf)
 
 ## Videos of the keynotes:
 - Keynote by Dr. R. Roehrig on Addressing the calibration bottleneck using machine learning: application to the CNRM-CM6-1 climate model: [https://youtu.be/jq0ZbIokvg8](https://youtu.be/jq0ZbIokvg8)
